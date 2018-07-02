@@ -10,7 +10,7 @@ class Pessoa{
 
 	public function falar(){
 
-		return "O meu nome é: " . $this -> nome;
+		return "O meu nome é    : " . $this -> nome;
 	}	
 }
 
