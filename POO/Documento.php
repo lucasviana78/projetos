@@ -33,7 +33,7 @@ class Documento{
 
 
 $cpf = new Documento();
-$cpf->setNumero("449810268102");
+$cpf->setNumero("4498102681");
 var_dump($cpf->getNumero());
 
 //var_dump(Documento::validaCPF("44981026811"));
