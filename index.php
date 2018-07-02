@@ -1,7 +1,4 @@
 <?php
-
-echo "Hello Word!";
-
-echo "Eaí pessoal";
-
+	session_start();
+	$_SESSION['nome'] = "LUCAS";
 ?>
